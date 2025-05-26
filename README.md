@@ -6,7 +6,7 @@ I like to build interactive and accessible web applications using HTML, CSS, and
 ## 🚀 Top Skills
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
 
 ## 🛠️ Featured Projects
 - [`Password Generator`](https://zaidstuff.com/password.html): Generate a strong password with the click of a button.
