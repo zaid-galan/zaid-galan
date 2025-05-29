@@ -13,4 +13,4 @@ I like to build interactive and accessible web applications using HTML, CSS, and
 - [`png.html`](https://zaidstuff.com/png.html): Creative PNG image manipulations right in the browser.
 
 ## 🌍 Find me online
-- [Personal site](https://zaidstuff.com/zaid.name.html)
+- [Personal site](https://zaidstuff.com/zaid.name/index.html)
